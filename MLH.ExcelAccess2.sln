@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLH.ExcelAccess2", "MLH.ExcelAccess2.csproj", "{668E4A1C-468D-49AC-8281-584184B34EC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{668E4A1C-468D-49AC-8281-584184B34EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668E4A1C-468D-49AC-8281-584184B34EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668E4A1C-468D-49AC-8281-584184B34EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668E4A1C-468D-49AC-8281-584184B34EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1625C8C1-D649-48C7-BD15-60944476BC9D}
+	EndGlobalSection
+EndGlobal
